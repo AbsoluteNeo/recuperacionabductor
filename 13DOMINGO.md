@@ -41,22 +41,6 @@
    - **Ejecución**: Túmbate boca abajo con las piernas estiradas. Coloca una banda elástica alrededor de los tobillos. Separa lentamente una pierna lateralmente contra la resistencia de la banda, manteniendo la pelvis y el tronco estables. Mantén la posición durante 5 segundos y baja lentamente.
    - **Repeticiones**: 3 series de 10 repeticiones por cada pierna.
 
-#### Natación: Rutina 6
-
-1. **Calentamiento**
-   - 200 metros de nado suave (puedes usar crol o espalda).
-   - 4 x 50 metros (25 metros patada + 25 metros nado) con 15 segundos de descanso entre series.
-
-2. **Parte Principal**
-   - 4 x 100 metros nado en estilo braza a ritmo moderado (50-70% del esfuerzo máximo) con 30 segundos de descanso entre series.
-   - 4 x 50 metros nado libre a ritmo rápido (80-90% del esfuerzo máximo) con 30 segundos de descanso entre series.
-   - 4 x 25 metros sprints de braza, intentando ser lo más explosiva posible con 30 segundos de descanso entre series.
-   - 2 x 100 metros nado combinado (50 metros braza + 50 metros crol) a ritmo constante con 1 minuto de descanso entre series.
-
-3. **Vuelta a la calma**
-   - 100 metros nado suave (puedes usar crol o braza).
-   - 4 x 25 metros con enfoque en la técnica (nado suave, eligiendo el estilo que prefieras).
-
 #### Fuerza Explosiva: Ejercicios 17-24
 
 1. **Lanzamiento de Balón Medicinal Sentado (Chest Pass)**
